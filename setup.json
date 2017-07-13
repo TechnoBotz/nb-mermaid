@@ -17,7 +17,7 @@
   "description": "Mermaid diagrams in the IPython Notebook",
   "include_package_data": true,
   "install_requires": [
-    "IPython>3.0",
+    "IPython=5.0",
     "jupyter-pip"
   ],
   "keywords": "IPython mermaid diagram",
@@ -27,7 +27,7 @@
     "mermaid"
   ],
   "setup_requires": [
-    "IPython>3.0",
+    "IPython=5.0",
     "jupyter-pip"
   ],
   "url": "http://github.com/bollwyvl/nb-mermaid",
