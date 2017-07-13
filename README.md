@@ -16,7 +16,7 @@ In the notebook...
 
 ## install (less easy)
 ```shell
-git clone -b gh-pages https://github.com/bollwyvl/nb-mermaid.git \
+git clone -b gh-pages https://github.com/TechnoBotz/nb-mermaid.git \
     ~/.ipython/nbextensions/nb-mermaid
 ```
 
